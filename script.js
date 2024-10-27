@@ -1,1 +1,1 @@
-console.log("Peter is a clever boy!");
+console.log("Peter is a clever boy!Peter is a clever boy!Peter is a clever boy!");
