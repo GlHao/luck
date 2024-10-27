@@ -1,1 +1,1 @@
-console.log("Peter is a clver boy!");
+console.log("Peter is a clever boy!");
