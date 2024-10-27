@@ -1,1 +1,1 @@
-console.log("Bright Peter!！！！！");
+console.log("Peter is a clver boy!");
